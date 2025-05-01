@@ -2,5 +2,5 @@ Laboratorio de  gitHubgit commit -m "first commit"
 
 public static void main (String[] args){
         System.out.println("hola mundo");
-        System.out.println("holA");
+        System.out.println("holaA");
 }
